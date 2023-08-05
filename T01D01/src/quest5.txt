@@ -1,0 +1,4 @@
+1. Use command: vim door_management_files/door_configuration/door_1.conf
+2. Clear everything after "STATUS: CLOSED"
+3. Press ESC, then print :wq
+
